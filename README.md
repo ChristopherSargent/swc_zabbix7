@@ -3,7 +3,8 @@
 
 * This repository contains a script to deploy Zabbix 7.0 LTS via docker containers. For any additional details or inquiries, please contact me at christopher.sargent@sargentwalker.io.
 * Tested on Ubuntu 22.04 VM
-* [Zabbix Documentation](https://www.zabbix.com/documentation/6.0/en/manual/installation/containers)
+* [Zabbix 7 LTS](https://www.zabbix.com/whats_new_7_0)
+* [Zabbix Documentation](https://github.com/zabbix/zabbix-docker/blob/7.0/README.md)
 
 ### Deploy Zabbix 7.0 LTS
 1. ssh user@IP
