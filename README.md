@@ -6,6 +6,11 @@
 * [Zabbix 7 LTS](https://www.zabbix.com/whats_new_7_0)
 * [Zabbix Documentation](https://github.com/zabbix/zabbix-docker/blob/7.0/README.md)
 
+### Docker install for Ubuntu 
+1. ssh user@IP
+2. sudo -i 
+3. curl -fsSL https://get.docker.com -o install-docker.sh && sudo sh install-docker.sh
+
 ### Deploy Zabbix 7.0 LTS
 1. ssh user@IP
 2. sudo -i 
